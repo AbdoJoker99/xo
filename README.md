@@ -64,7 +64,7 @@ Distributed under the MIT License. See \`LICENSE\` for more information.
 ## 🌐 Contact
 Your Name - chessjoker27@example.com
 
-Project Link: https://github.com/AbdoJoker99
+contributors: https://github.com/AbdoJoker99
 
 ## 🙌 Acknowledgments
 - Flutter Team
