@@ -1,16 +1,77 @@
-# xo_game
 
-A new Flutter project.
+## Project Overview
 
-## Getting Started
+## 🌟 Features
+- Responsive Tic-Tac-Toe game board
+- Score tracking
+- Restart game functionality
+- 
+## 🛠 Technologies Used
+- Flutter
+- Dart
+- State Management (Provider/Riverpod recommended)
+- AI Algorithm (Minimax)
 
-This project is a starting point for a Flutter application.
+## 🖼️ Screenshots
+![Game Screenshot](screenshots/game_screenshot.png)
+![Game Screenshot](screenshots/game_screenshot.png)
+![Game Screenshot](screenshots/game_screenshot.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK (latest stable version)
+- Dart SDK
+- Android Studio or VS Code
+- Git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+```bash
+https://github.com/AbdoJoker99/xo.git
+```
+
+2. Install dependencies:
+```bash
+flutter pub get
+```
+
+3. Run the application:
+```bash
+flutter run
+```
+
+## 📱 Supported Platforms
+- Android
+- iOS
+- Web
+- Windows
+- macOS
+- Linux
+
+## 🔧 Configuration
+Customize game settings in \`lib/config/game_settings.dart\`:
+- Custom themes
+
+## 🧪 Testing
+- Unit tests for game logic
+
+### Running Tests
+```bash
+flutter test
+```
+
+
+## 📄 License
+Distributed under the MIT License. See \`LICENSE\` for more information.
+
+## 🌐 Contact
+Your Name - chessjoker27@example.com
+
+contributors: https://github.com/AbdoJoker99
+
+## 🙌 Acknowledgments
+- Flutter Team
+- Dart Language
+- Open-source community
+
+---
