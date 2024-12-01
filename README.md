@@ -3,20 +3,9 @@
 
 ## 🌟 Features
 - Responsive Tic-Tac-Toe game board
-- Single-player mode against AI
-- AI opponent with predictive strategy
-- Minimalist and clean user interface
-- Win/draw detection
 - Score tracking
 - Restart game functionality
-
-## 🤖 AI Prediction Strategy
-The game's AI uses a sophisticated algorithm to:
-- Predict potential winning moves
-- Block player's winning strategies
-- Make optimal decisions based on current board state
-- Implement minimax algorithm for intelligent gameplay
-
+- 
 ## 🛠 Technologies Used
 - Flutter
 - Dart
