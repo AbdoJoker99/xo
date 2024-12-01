@@ -53,8 +53,6 @@ Customize game settings in \`lib/config/game_settings.dart\`:
 
 ## 🧪 Testing
 - Unit tests for game logic
-- AI algorithm tests
-- Widget tests for UI components
 
 ### Running Tests
 \`\`\`bash
