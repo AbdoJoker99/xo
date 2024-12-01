@@ -1,6 +1,5 @@
 
 ## Project Overview
-$description
 
 ## 🌟 Features
 - Responsive Tic-Tac-Toe game board
@@ -80,7 +79,7 @@ Distributed under the MIT License. See \`LICENSE\` for more information.
 ## 🌐 Contact
 Your Name - chessjoker27@example.com
 
-Project Link: [https://github.com/$githubUsername/$projectName](https://github.com/$githubUsername/$projectName)
+Project Link: https://github.com/AbdoJoker99
 
 ## 🙌 Acknowledgments
 - Flutter Team
