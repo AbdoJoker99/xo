@@ -47,8 +47,6 @@ flutter run
 
 ## 🔧 Configuration
 Customize game settings in \`lib/config/game_settings.dart\`:
-- Difficulty levels
-- AI aggression
 - Custom themes
 
 ## 🧪 Testing
