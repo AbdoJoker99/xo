@@ -12,7 +12,10 @@
 - State Management (Provider/Riverpod recommended)
 - AI Algorithm (Minimax)
 
-## 🚀 Getting Started
+## 🖼️ Screenshots
+![Game Screenshot](screenshots/game_screenshot.png)
+![Game Screenshot](screenshots/game_screenshot.png)
+![Game Screenshot](screenshots/game_screenshot.png)
 
 ### Prerequisites
 - Flutter SDK (latest stable version)
