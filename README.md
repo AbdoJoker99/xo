@@ -13,7 +13,7 @@
 - AI Algorithm (Minimax)
 
 ## 🖼️ Screenshots
-![Game Screenshot](xo/Screenshot 2024-12-01 225634.png)
+![Game Screenshot](Screenshot 2024-12-01 225634.png)
 ![Game Screenshot](screenshots/game_screenshot.png)
 ![Game Screenshot](screenshots/game_screenshot.png)
 
