@@ -23,14 +23,14 @@
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
+```bash
 https://github.com/AbdoJoker99/xo.git
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`bash
+```bash
 flutter pub get
-\`\`\`
+```
 
 3. Run the application:
 \`\`\`bash
@@ -53,9 +53,9 @@ Customize game settings in \`lib/config/game_settings.dart\`:
 - Unit tests for game logic
 
 ### Running Tests
-\`\`\`bash
+```bash
 flutter test
-\`\`\`
+```
 
 
 ## 📄 License
