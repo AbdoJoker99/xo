@@ -33,9 +33,9 @@ flutter pub get
 ```
 
 3. Run the application:
-\`\`\`bash
+```bash
 flutter run
-\`\`\`
+```
 
 ## 📱 Supported Platforms
 - Android
