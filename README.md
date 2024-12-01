@@ -15,7 +15,7 @@
 ## 🖼️ Screenshots
 ![Game Screenshot](https://github.com/AbdoJoker99/xo/blob/main/Screenshot%202024-12-01%20225634.png?raw=true)
 ![Game Screenshot](https://github.com/AbdoJoker99/xo/blob/main/Screenshot%202024-12-01%20225659.png?raw=true)
-![Game Screenshot](screenshots/game_screenshot.png)
+![Game Screenshot](https://github.com/AbdoJoker99/xo/blob/main/Screenshot%202024-12-01%20225738.png?raw=true)
 
 ### Prerequisites
 - Flutter SDK (latest stable version)
