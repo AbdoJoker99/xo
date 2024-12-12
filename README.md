@@ -5,7 +5,7 @@
 - Responsive Tic-Tac-Toe game board
 - Score tracking
 - Restart game functionality
-- 
+  
 ## 🛠 Technologies Used
 - Flutter
 - Dart
@@ -74,4 +74,3 @@ contributors: https://github.com/AbdoJoker99
 - Dart Language
 - Open-source community
 
----
